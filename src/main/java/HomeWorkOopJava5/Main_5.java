@@ -1,4 +1,5 @@
 package HomeWorkOopJava5;
+import HomeWorkOopJava5.UniversityApp;
 
 /**
  * СОЗДАТЬ ДОПОЛНИТЕЛЬНОЕ ПРИЛОЖЕНИЕ, КОТОРОЕ БУДЕТ в цикле while(true):
@@ -16,7 +17,7 @@ package HomeWorkOopJava5;
 public class Main_5 {
 
     public static void main(String[] args) {
-        new UniversityApp();
+        UniversityApp universityApp = new UniversityApp();
     }
 
 }
