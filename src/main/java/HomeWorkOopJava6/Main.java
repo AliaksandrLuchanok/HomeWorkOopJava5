@@ -19,13 +19,6 @@ public class Main {
                 "\tinterface DocumentReportGenerator extends ReportGenerator:   \t\t\tString generateFormat()\n" +
                 "\t\tclass DocumentReportGeneratorHml implements DocumentReportGenerator:   \t\t\t@Override String generateFormat()\n" +
                 "\t\tclass DocumentReportGeneratorJson implements DocumentReportGenerator:   \t\t@Override String generateFormat()\n"
-
-
-
-
-
-
-
         );
         System.out.println("/////////////////////////////////////////////////////////////////////////////////////////////////");
         System.out.println("WORK 3:");
